@@ -5,6 +5,7 @@ def gcd(a, b):
     else:
       b = b % a
 
+
   print('Наибольший общий делитель:', a + b)
 
 gcd(30, 18)
